@@ -157,7 +157,7 @@ __Special thanks to:__ Dr. Dhiraj Kapila (Assoicate professr)
 ## License
 [![Apache license](https://img.shields.io/badge/license-apache-blue?style=for-the-badge&logo=appveyor)](http://www.apache.org/licenses/LICENSE-2.0e)
 
-Copyright 2021 Karan Mehra | Surbhi | Navdeep
+Copyright 2023 Malvika | Dalip | samar
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
